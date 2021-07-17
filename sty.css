@@ -93,4 +93,9 @@ footer {
     display: flex;
     flex-direction: column;
   }
+	.navbar {
+  background: light-grey !important;
+  
+}
+
 }
