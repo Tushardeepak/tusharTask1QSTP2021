@@ -93,9 +93,13 @@ footer {
     display: flex;
     flex-direction: column;
   }
-	.navbar {
-  background: light-grey !important;
-  
+  .navbar{
+    background: black !important;
+  }
+  .navbar-brand {
+    min-height: 10px;
+    padding: 0 15px 5px;
+  }
 }
 
 }
